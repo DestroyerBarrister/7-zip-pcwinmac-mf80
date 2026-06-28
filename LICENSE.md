@@ -1,4 +1,4 @@
-# 
+# Élite 7-Zip plugins pour Mac OS | Personnalisé 7-Zip plugins pour PC Windows. Avec compression de fichiers et automatisation système — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
